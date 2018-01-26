@@ -1,0 +1,7 @@
+C:\Users\narek\Documents\Visual Studio 2017\Projects\ProducerAndConsumer\ProducerAndConsumer\bin\Debug\ProducerAndConsumer.exe.config
+C:\Users\narek\Documents\Visual Studio 2017\Projects\ProducerAndConsumer\ProducerAndConsumer\bin\Debug\ProducerAndConsumer.exe
+C:\Users\narek\Documents\Visual Studio 2017\Projects\ProducerAndConsumer\ProducerAndConsumer\bin\Debug\ProducerAndConsumer.pdb
+C:\Users\narek\Documents\Visual Studio 2017\Projects\ProducerAndConsumer\ProducerAndConsumer\obj\Debug\ProducerAndConsumer.csprojResolveAssemblyReference.cache
+C:\Users\narek\Documents\Visual Studio 2017\Projects\ProducerAndConsumer\ProducerAndConsumer\obj\Debug\ProducerAndConsumer.csproj.CoreCompileInputs.cache
+C:\Users\narek\Documents\Visual Studio 2017\Projects\ProducerAndConsumer\ProducerAndConsumer\obj\Debug\ProducerAndConsumer.exe
+C:\Users\narek\Documents\Visual Studio 2017\Projects\ProducerAndConsumer\ProducerAndConsumer\obj\Debug\ProducerAndConsumer.pdb
